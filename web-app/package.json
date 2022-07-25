@@ -46,6 +46,8 @@
     "sass": "^1.53.0"
   },
   "react-dotenv": {
-    "whitelist": ["REACT_APP_SERVER_URL"]
+    "whitelist": [
+      "REACT_APP_SERVER_URL"
+    ]
   }
 }
